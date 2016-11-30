@@ -1,0 +1,27 @@
+{
+  "name": "find",
+  "version": "1.0.0",
+  "description": "missing element",
+  "main": "/app.library.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/missingNumber.git"
+  },
+  "keywords": [
+    "missing"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/missingNumber/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/missingNumber#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  }
+}
